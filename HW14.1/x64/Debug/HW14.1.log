@@ -1,0 +1,3 @@
+﻿  HW14.1.cpp
+E:\Школа\Visual studio\Projects\Itstep Season 2\HW14.1\HW14.1.cpp(153,1): warning C4715: gcd: значение возвращается не при всех путях выполнения
+  HW14.1.vcxproj -> E:\Школа\Visual studio\Projects\Itstep Season 2\x64\Debug\HW14.1.exe
